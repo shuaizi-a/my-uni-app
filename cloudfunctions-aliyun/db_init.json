@@ -1,0 +1,46 @@
+// 在本文件中可配置云数据库初始化，数据格式见：https://uniapp.dcloud.io/uniCloud/cf-database?id=db_init
+
+// 编写完毕后对本文件点右键，可按配置规则创建表和添加数据
+
+{
+	"list": {
+		"data": [{
+				"name": "shuaizi",
+				"age": "22"
+			},
+			{
+				"name": "shuaizi2",
+				"age": "22"
+			},
+			{
+				"name": "shuaizi3",
+				"age": "22"
+			},
+			{
+				"name": "shuaizi4",
+				"age": "22"
+			},
+			{
+				"name": "shuaizi5",
+				"age": "22"
+			},
+			{
+				"name": "shuaizi6",
+				"age": "22"
+			},
+			{
+				"name": "shuaizi7",
+				"age": "22"
+			}
+		]
+	},
+	"classList": {
+		"data": [{
+				"classname": "vue"
+			},
+			{
+				"classname": "react"
+			}
+		]
+	}
+}
